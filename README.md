@@ -1,0 +1,1 @@
+This directory contains a collection of interactive Tableau dashboards and visual analytics projects I've created to explore and present insights from various real-world datasets. Each workbook demonstrates practical applications of data visualization techniques for business intelligence, HR analytics, sales performance, and more.
